@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.lonesome.coder) 
-[![Medium](https://img.shields.io/badge/Medium-Blue?style=flat)](https://medium.com/@the.lonesome.coder)
+[![Blog - Medium](https://img.shields.io/badge/Blog%20--%20Medium-FFFF00?style=flat&logo=medium)](https://medium.com/@the.lonesome.coder)
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
